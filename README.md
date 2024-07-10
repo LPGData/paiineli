@@ -17,6 +17,8 @@
 
   - 💬 I am 21 years old, currently living in Brazil. Systems Analyst with 4+ years in Oracle database management, healthcare systems, and software project management. Proven track record in leading software development and deploying integrated systems solutions. Looking to apply my technical and project management skills in a dynamic tech-driven company
 
+<br>
+
 </details>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=midnight-purple&layout=donut-vertical" />
 
