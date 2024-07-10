@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lucas Paineli and I'm a Software Architect, from SP - Brazil</p>
+<p align="left">My name is Lucas Paineli and I'm a Software Architect from Brazil</p>
 
 ###
 
