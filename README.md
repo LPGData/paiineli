@@ -40,6 +40,7 @@
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   </div>
   
-<img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=tokyonight&show_icons=true" />
+<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=tokyonight&show_icons=true" />
 
 
