@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've been integrating systems since 2020 ...<br>📚 I'm currently learning Phyton and SQL<br></p>
+<p align="left">✨ I've been integrating systems since 2020.<br>📚 I'm currently learning Phyton and SQL.<br></p>
 
 ###
 
