@@ -1,12 +1,12 @@
 <!--title-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hi! 👋 What's up?</h1></summary>
 </div>
 
 <!--presentation-->
 <p>
-  Hi 👋, Hi! 👋 What's up? My name is Lucas! A passionate Data Science student from Brazil.
+  My name is Lucas! A passionate Data Science student from Brazil.
 
   - ✨ I've been integrating systems since 2020.<br>📚 I'm currently learning Phyton and SQL.
 </p>
