@@ -25,7 +25,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=midnight-purple&layout=donut-vertical" />
 
-<h1 style="display: inline-block">🔥 Skills</h1>
+<h1>🔥 Skills</h1>
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
