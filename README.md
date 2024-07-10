@@ -8,7 +8,7 @@
 <p>
   My name is Lucas! A passionate Data Science and Software Architect student from Brazil.
 
-  - ✨ I've been integrating systems since 2020.<br>📚 I'm currently learning Phyton and SQL.
+  - ✨ I've been integrating systems since 2020.<br>📚 I'm currently studying Phyton and SQL.
 </p>
 
 <!-- dropdown -->
