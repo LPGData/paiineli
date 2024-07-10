@@ -19,11 +19,13 @@
 
 </details>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=midnight-purple&layout=donut-vertical" />
+
+
 <!--links-->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@paiineli?feature=shared)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspaineli/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=midnight-purple&layout=donut-vertical" />
 
 <h1>🔥 Skills</h1>
 <!-- Skills: Programming Languages -->
