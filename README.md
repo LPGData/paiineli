@@ -16,12 +16,7 @@
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 21 years old, currently living in Brazil. Systems Analyst with 4+ years in Oracle database management, healthcare systems, and software project management. Proven track record in leading software development and deploying integrated systems solutions. Looking to apply my technical and project management skills in a dynamic tech-driven company
-
-<br>
-
 </details>
-
-<br>
 
 
 <!--links-->
@@ -35,6 +30,8 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=github_dark&&hide_progress=true"/>
 
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
@@ -44,4 +41,4 @@
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   </div>
   
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=github_dark&&hide_progress=true" />
+
