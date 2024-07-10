@@ -1,41 +1,39 @@
-# Olá, eu sou o Lucas Paineli! 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## Sobre Mim
+###
 
-Sou um Analista de Sistemas apaixonado por tecnologia, atualmente focado em gerenciamento de banco de dados Oracle, sistemas de saúde e gerenciamento de projetos de software. Tenho 21 anos e moro em Sorocaba, SP.
+<p align="left">My name is Lucas Paineli and I'm a Software Architect, from SP - Brazil</p>
 
-## Certificações
+###
 
-- Python para Data Science: primeiros passos - Alura
+<h2 align="left">About me</h2>
 
-## Habilidades
+###
 
-- **Linguagens de Programação:** Python, Java, SQL
-- **Banco de Dados:** Oracle, MySQL, PostgreSQL
-- **Ferramentas de Desenvolvimento:** Git, Docker, Jenkins
-- **Gerenciamento de Projetos:** Scrum, Kanban
-- **Outras Habilidades:** Análise de Sistemas, Integração de Sistemas, Documentação Técnica
+<p align="left">✨ I've been integrating systems since 2020 ...<br>📚 I'm currently learning Phyton and SQL<br></p>
 
-## Projetos
+###
 
-### [Projeto 1: Sistema de Gerenciamento de Saúde](https://github.com/paiineli/projeto1)
-- Descrição: Sistema integrado para gestão de informações de pacientes e automação de processos administrativos.
-- Tecnologias: Java, Oracle, Spring Boot
+<h2 align="left">I code with</h2>
 
-### [Projeto 2: Análise de Dados com Python](https://github.com/paiineli/projeto2)
-- Descrição: Análise de grandes volumes de dados para geração de insights empresariais.
-- Tecnologias: Python, Pandas, Matplotlib
+###
 
-## Contato
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-- **Email:** painelilucas@gmail.com
-- **LinkedIn:** [Lucas Paineli](https://www.linkedin.com/in/lucaspaineli)
-- **Telefone:** +55 15 991144028
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=paiineli&show_icons=true&theme=radical)
-
----
-
-Obrigado por visitar meu perfil! Estou sempre aberto a novas oportunidades e colaborações. Vamos nos conectar! 🚀
+###
