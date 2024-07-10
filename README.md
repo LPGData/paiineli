@@ -41,6 +41,6 @@
   </div>
   
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&layout=donut-vertical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=midnight-purple&layout=donut-vertical" />
 <br>
 <br>
