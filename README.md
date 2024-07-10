@@ -24,9 +24,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspaineli/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=midnight-purple&layout=donut-vertical" />
-<br>
-<br>
-# 🔥 Skills
+
+## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
