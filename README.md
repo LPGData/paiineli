@@ -27,7 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspaineli/)
 
 
-<p style="font-size: 10em;">🔥 Skills</p>
+<p class="big-font">🔥 Skills</p>
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
